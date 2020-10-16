@@ -16,4 +16,9 @@ public class Example {
 	
 	}
 	
+
+	public void example2Leader() {
+		
+	}
+	
 }
