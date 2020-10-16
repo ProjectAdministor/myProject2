@@ -165,6 +165,10 @@ public class LoginController {
 		System.out.println("실행이 되나?");
 		session.invalidate();
 		System.out.println("***************************************");
+		
+		
 		return "redirect:naver_login";
+		
+		
 	}
 }
