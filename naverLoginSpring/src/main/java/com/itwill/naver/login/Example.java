@@ -13,7 +13,4 @@ public class Example {
 
 	}
 
-	public void memberExample() {
-		
-	}
 }
