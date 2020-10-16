@@ -15,4 +15,9 @@ public class Example {
 	public void memberExample() {
 		
 	}
+	
+	public void example2Leader() {
+		
+	}
+	
 }
