@@ -166,7 +166,6 @@ public class LoginController {
 		session.invalidate();
 		System.out.println("***************************************");
 		
-		
 		return "redirect:naver_login";
 		
 		
