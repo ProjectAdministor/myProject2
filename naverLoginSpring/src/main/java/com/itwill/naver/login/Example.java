@@ -19,8 +19,5 @@ public class Example {
 		
 	}
 	
-	public void branchCommitAndPushFunc() {
-		
-	}
 	
 }
