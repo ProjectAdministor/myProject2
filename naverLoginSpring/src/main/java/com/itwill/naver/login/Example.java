@@ -13,14 +13,4 @@ public class Example {
 
 	}
 
-	
-	public void example2Leader() {
-		
-	}
-
-	public void memberExample() {
-		
-	}
-	
-	
 }
