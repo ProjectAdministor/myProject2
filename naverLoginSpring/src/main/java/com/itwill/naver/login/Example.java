@@ -16,10 +16,6 @@ public class Example {
 	public void example2Leader() {
 		System.out.println("충돌 나나??????");
 	}
-	
 
-	public void branchCommitAndPushFunc() {
-		System.out.println("병합?");
-	}
 
 }
