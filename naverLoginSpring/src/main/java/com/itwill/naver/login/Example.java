@@ -12,11 +12,9 @@ public class Example {
 		System.out.println("github member 계정에서 작성한 메소드입니다.");
 
 	}
-	public void memberFunc() {
-		
-	}
+
 	public void example2Leader() {
-		
+		System.out.println("충돌 나나??????");
 	}
 	
 
