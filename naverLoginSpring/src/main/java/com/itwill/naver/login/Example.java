@@ -18,10 +18,5 @@ public class Example {
 	public void example2Leader() {
 		
 	}
-	
-
-	public void branchCommitAndPushFunc() {
-		System.out.println("병합?");
-	}
 
 }
